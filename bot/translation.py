@@ -4,13 +4,13 @@
 
 class Translation(object):
     
-    START_TEXT = """<b>Hey {}!!</b>
+    START_TEXT = """<b><u>Hey {}സുഖം അന്നോ കുട്ടാ 😄 എന്താ വേണ്ട പറയ്യു 😘!!</b></u>
 <i>Am Just A Advance Auto Filter Bot....😉
 
-Just Add Me To Your Group And Channel And Connect Them And See My Pevers 🔥🔥😝
+ഹലോ എന്തല്ല എനിക്ക് ഒരു കാര്യം പറയണം ഐ ലവ് യു..... ഓക്കേ എന്ന ഗ്രൂപ്പിൽ ആഡ് ആക്കാൻ നോക്ക അന്നോ പറ്റില്ല ബട്ട്‌ ഇവൻ വിചാരിച്ച പറ്റും @adithyarajfed ഇനി ഒരു മെസ്സേജ് അങ്ങ് അയച്ചേ അവന്ന് അവൻ ഒരു പാവം അന്നേ അവൻ നിനക്ക് എന്ന എങ്ങനെ ഉണ്ടാകും എന്ന് പറഞ്ഞു തരും 🥰
 
 For More Details Click Help Button Below..
-@CrazyBotsz
+@OMKVE
 </i>"""    
     
     HELP_TEXT = """
@@ -43,16 +43,16 @@ For More Details Click Help Button Below..
             
             -> <code>Status</code> - Button Will Shows The Stats Of Your Channel
             
-@CrazyBotsz
+
 """
     
     ABOUT_TEXT = """<b>➥ Name</b> : <code> Auto Filter Bot</code>
     
-<b>➥ Creator</b> : <b><i><a href="https://t.me/AlbertEinstein_TG">AlbertEinstein_TG</a></i></b>
+<b>➥ Creator</b> : <b><i><a href="https://t.me/Adithya raj">𖣔ꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋ(× 🎀 𝒟𝒶𝓇𝓀 🎀 ×)¤๋ࣩࣩࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧ͜͡"></a></i></b>
 
 <b>➥ Language</b> : <code>Python3</code>
 
 <b>➥ Library</b> : <i><a href="https://docs.pyrogram.org">Pyrogram Asyncio 1.13.0 </a></i>
 
-<b>➥ Source Code</b> : <i><a href="https://github.com/AlbertEinsteinTG/Adv-Auto-Filter-Bot">Click Me</a></i>
+<b>➥ Source Code</b> : <i><a href=>Click Me</a></i>
 """
